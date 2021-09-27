@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumanthleo
+- 👋 Hi, I’m @sumanth-leo
 - 👀 I’m interested in Ethical Hacking and Python with Django
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on python projects
