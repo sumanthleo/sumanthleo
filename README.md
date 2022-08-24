@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumanth-leo
-- 👀 I’m a full stack developer(MERN) & app developer.
+- 👀 I’m a full stack developer(MERN) developer.
 - 📫 How to reach me sumanthkonthala1998@gmail.com
 
 <!---
